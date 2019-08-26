@@ -18,5 +18,5 @@ pyinstaller -y -w -i "ICON-PATH/icon_founders_badge_RNV_icon.ico"
 "PYTHON-PATH/FN Random Drop 2.py"
 ```
 
-## Preview
+## Screenshot
 ![Screenshot](preview.png)
